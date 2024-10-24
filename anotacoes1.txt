@@ -1,0 +1,37 @@
+O que iremos trabalhar?
+
+- Introdução
+- Teoria dos erros
+- Raízes de equeações algébricas não-lineares
+- Sistemas de equações algébricas lineares
+- Aproximação numérica
+- Integração numérica
+
+Bibliografia
+
+- Cálculo numérico, Riggiero e Lopes
+- Algoritmos numéricos, Campos Filho
+
+1. Introdução
+
+2. Teoria dos erros
+
+- Erro na fase de captação dos dados
+- Erro na fase de modelagem matemática
+
+Tipos de erro:
+- Erros de arredondamento
+Os computadores somente podem representar apenas quantidades com números finitos de algarismos
+- Erros de truncamento
+Discrepancia introduzida pela prática de aproximação
+
+Exemplo:
+Somatório em c e em python pode dar resultados diferentes.
+Erro de aproximação. Precisão simples e dupla.
+
+Exemplo:
+Numero pi (3,141592654...)
+Erro de truncamento.
+
+Representação de um número na base b
+
